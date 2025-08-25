@@ -1,0 +1,33 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1755957646
+animated_sprite_2d_2.gd::GDScript/GDScript::3186524213053723246::1755704428::0::1::::<>AnimatedSprite2D<><>0<>0<><>::
+cast_button.gd::GDScript/GDScript::4915931543784531112::1755612697::0::1::::<>Button<><>0<>0<><>::
+export_presets.cfg::TextFile/TextFile::-1::1755704594::0::1::::<><><>0<>0<><>::
+main.gd::GDScript/GDScript::3200851012962333776::1755704302::0::1::::<>Node2D<><>0<>0<><>::
+main.tscn::PackedScene::8550207206400180844::1755957646::0::1::::<><><>0<>0<><>::uid://blurswds2ilum::::res://main.gd<>uid://l5nhmcfwqm75::::res://art/unpressed.png<>uid://1jm45gwsl7wu::::res://art/pressed.png<>uid://dh6h76yjkc40y::::res://art/Sprite-0001.png<>uid://cgfsoe7resy2::::res://art/bg2.png<>uid://c78itd38d466f::::res://boat.gd<>uid://blntt884tpv5w::::res://animated_sprite_2d_2.gd<>uid://bjrvfdryougkl::::res://art/boaanimt.png
+boat.gd::GDScript::7087528698042664535::1755956569::0::1::::<>CharacterBody2D<><>0<>0<><>::
+ShortBaby-Mg2w.ttf::FontFile/FontFile::4840964004205761885::1755614513::1755614560::1::::<><><>0<>0<>6a1fa20f70f882c699fc99d01b9f832b<>res://.godot/imported/ShortBaby-Mg2w.ttf-5c5b5c3662d61ebc41d17f9b0300939b.fontdata::
+::res://art/::1755958226
+bg2.png::CompressedTexture2D::153100426037493699::1755957580::1755957582::1::::<><><>0<>0<>655cc223357361c3aa17c510caa9f212<>res://.godot/imported/bg2.png-cc61a5379a373a270a8e86cc02e43fd3.ctex::
+bg3.png::CompressedTexture2D::8778660691255437905::1755958226::1755958233::1::::<><><>0<>0<>1fa29ff141ca37db111b5da561d5cc50<>res://.godot/imported/bg3.png-ab0ca9dd024e22bb02e68fdaf79ba0cf.ctex::
+bg.png::CompressedTexture2D/CompressedTexture2D::5654858900387618145::1755700083::1755948897::1::::<><><>0<>0<>263a423db3b679113387bda2c0e6b8bd<>res://.godot/imported/bg.png-ca4dd02b5a08671d1e8200d74b5e8347.ctex::
+bggg.png::CompressedTexture2D/CompressedTexture2D::5612755925092986581::1755700854::1755948901::1::::<><><>0<>0<>27c38f9e9879294d616b9dda32910639<>res://.godot/imported/bggg.png-bb681aaa08b1e8d80b19e6c3edd3f53e.ctex::
+boaanimt.png::CompressedTexture2D::3054498869013706679::1755949163::1755949165::1::::<><><>0<>0<>9dfc2347bdf7852cb9d0cd70512601d6<>res://.godot/imported/boaanimt.png-1f258b6e89ba401974d00a8a65fbd784.ctex::
+pressed.png::CompressedTexture2D/CompressedTexture2D::1844271312305253816::1755698476::1755948962::1::::<><><>0<>0<>9776bcf7d42b09e86dc543c128d490d4<>res://.godot/imported/pressed.png-beb1e7a46c2a2740c79d7412aec21bc8.ctex::
+Sprite-0001.png::CompressedTexture2D/CompressedTexture2D::7715063496997260462::1755649913::1755948968::1::::<><><>0<>0<>30793aa09d587bcb57283f47e2cadff4<>res://.godot/imported/Sprite-0001.png-fe32cb12df46aa317f147d3e0ac90305.ctex::
+Sprite-0002.png::CompressedTexture2D/CompressedTexture2D::5150960053242234054::1755697186::1755948976::1::::<><><>0<>0<>4d54291377c42fb14ede35e50c553143<>res://.godot/imported/Sprite-0002.png-3f75a666587006d70250c0c12a3ff6bf.ctex::
+unpressed.png::CompressedTexture2D::834811067730478734::1755698452::1755948983::1::::<><><>0<>0<>910eafb4624a539ad96de2ab245cbfc9<>res://.godot/imported/unpressed.png-9d30ea92e5109bc8089e236e88b5b8a6.ctex::
+::res://default things/::1755948958
+First Project.apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::8230511188824125983::1755616802::1755948944::1::::<><><>0<>0<>9e4f9d0471070b9abe476d6cd8dfb856<>res://.godot/imported/First Project.apple-touch-icon.png-9361a1d82984658fc90fbc36a79b33ec.ctex::
+First Project.icon.png::CompressedTexture2D/CompressedTexture2D::770767624058709828::1755616802::1755948949::1::::<><><>0<>0<>2e86b7d603a10ec0cd365b9b2dbdf391<>res://.godot/imported/First Project.icon.png-bdff828d19796eec4efe499ec7ae935e.ctex::
+First Project.png::CompressedTexture2D/CompressedTexture2D::224124710106774373::1755616802::1755948955::1::::<><><>0<>0<>94e2168a0a6c12b5629a6e5c3022ffec<>res://.godot/imported/First Project.png-5f376c0805b576b4f34a1928957a8101.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::2629289403976495994::1755561317::1755948958::1::::<><><>0<>0<>66a46fa9edc97950c72cc9e2ba54f58e<>res://.godot/imported/icon.svg-4b0f6ee08b2c5827d8f818a71b6b253f.ctex::
+::res://exports/::1755690686
+::res://exports/web/::1755689612
+reelin.apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::4708973863665535308::1755689552::1755689612::1::::<><><>0<>0<>88a6529bcd604d6a7891476af9687003<>res://.godot/imported/reelin.apple-touch-icon.png-709bbd3f998b3189c8e6996f3913dfdc.ctex::
+reelin.icon.png::CompressedTexture2D/CompressedTexture2D::3825908255651122899::1755689552::1755689612::1::::<><><>0<>0<>eac749b5ee922b760975e23bff26fb7e<>res://.godot/imported/reelin.icon.png-ff1b85d2116b8bfacf4392dd4e8de51c.ctex::
+reelin.png::CompressedTexture2D/CompressedTexture2D::8940800696004668222::1755689552::1755689612::1::::<><><>0<>0<>32d7de87ee3f1783fbebb3e82e83ebc8<>res://.godot/imported/reelin.png-c8e2140ef3e4387a35c7c993c72f97f8.ctex::
+::res://exports/web2/::1755704593
+reelin.apple-touch-icon.png::CompressedTexture2D/CompressedTexture2D::4427677997673871685::1755704593::1755691131::1::::<><><>0<>0<>9f41bedd9bd327c2bb15c7a720e9bf2e<>res://.godot/imported/reelin.apple-touch-icon.png-3e5a39f511893e034754b6e28b034a06.ctex::
+reelin.icon.png::CompressedTexture2D/CompressedTexture2D::3414162204909250955::1755704593::1755691131::1::::<><><>0<>0<>2afebec388ba558bf3492c77c3a8a604<>res://.godot/imported/reelin.icon.png-1ac8f8d37640d1139fe3f877a3add3b8.ctex::
+reelin.png::CompressedTexture2D/CompressedTexture2D::6044610231054520269::1755704593::1755691131::1::::<><><>0<>0<>2b580338a87712358478c9735cdc81ff<>res://.godot/imported/reelin.png-adc4cdd63be29f7ef5f04e85ebce4eaf.ctex::

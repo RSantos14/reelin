@@ -1,0 +1,9 @@
+CollisionShape2D
+AnimatedSprite2D
+CharacterBody2D
+TextureButton
+Sprite2D
+Node2D
+Label
+Button
+ColorRect
